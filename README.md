@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi there 👋, my name is Anne! 👩🏼‍💻
+- 🔭 I’m currently working on becoming a front-end developer.
+- 🌱 I’m currently learning HTML, CSS and Javascript.
+- 👯 I’m looking to collaborate on open source projects.
+- 💬 Ask me about anything!
+- 😄 Pronouns: she/her
+- ⚡ Fun fact: I love pizza with pineapple 🍍.
+<!-- - 📫 How to reach me: ... -->
 
-<!--
-**annereginatto/annereginatto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Anne's GitHub stats](https://github-readme-stats.vercel.app/api?username=annereginatto&show_icons=true&theme=omni)
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
