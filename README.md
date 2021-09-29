@@ -4,7 +4,7 @@
 - 👯 I’m looking to collaborate on open source projects.
 - 💬 Ask me about anything!
 - 😄 Pronouns: she/her
-- ❗️ Fun fact: I love pizza with pineapple 🍍.
+- ❗️ Fun fact: I love pizza with pineapple as topping 🍍.
 
 <div align="center">
   <a href="https://github.com/annereginatto">
