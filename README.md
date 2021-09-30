@@ -1,8 +1,8 @@
 <h1 align="center"> <> Hi there! 👋, My name is Anne 👩🏼‍💻 <> </h1>
-  <img align="right" alt="Anne-avatar" height="300" style="border_radius:50px;" src="https://media.discordapp.net/attachments/890918354225868823/890918645201530920/AvatarMaker.png">
 <div align="justify">
   <ul>
     <li> 💻 I’m currently working on becoming a front-end developer.</li><br>
+    <img align="right" alt="Anne-avatar" height="220" style="border_radius:50px;" src="https://media.discordapp.net/attachments/890918354225868823/890918645201530920/AvatarMaker.png">
     <li> 📚 I’m currently learning HTML, CSS and Javascript.</li><br>
     <li> 👯 I’m looking to collaborate on open source projects.</li><br>
     <li> 💬 Ask me about dogs, travelling, medicine and technology!</li><br>
@@ -14,9 +14,9 @@
 ##
 <div align="center">
   <a href="https://github.com/annereginatto">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annereginatto&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/></a>
-  <a href="https://github.com/annereginatto"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annereginatto&layout=compact&langs_count=7&theme=omni"/></a><br>
-  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annereginatto&theme=highcontrast" alt="annereginatto" /></p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=annereginatto&show_icons=true&theme=omni&include_all_commits=true&count_private=true"/></a><br><br>
+  <a href="https://github.com/annereginatto"><img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=annereginatto&layout=compact&langs_count=7&theme=omni"/></a><br><br>
+  <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=annereginatto&theme=dark" alt="annereginatto" /></p>
 </div>
   
   <h2> 🖥 Languages & Skills </h2>
