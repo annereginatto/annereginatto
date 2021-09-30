@@ -4,6 +4,7 @@
     <li> 💻 I’m currently working on becoming a front-end developer.</li><br>
     <img align="right" alt="Anne-avatar" height="220" style="border_radius:50px;" src="https://media.discordapp.net/attachments/890918354225868823/890918645201530920/AvatarMaker.png">
     <li> 📚 I’m currently learning HTML, CSS and Javascript.</li><br>
+    <li> 👩🏼‍🎓 Medical Doctor graduated in 2019; Currenty undertaking a Bachelor of Computer Science.
     <li> 👯 I’m looking to collaborate on open source projects.</li><br>
     <li> 💬 Ask me about dogs, travelling, medicine and technology!</li><br>
     <li> 🌐 All of my projects are available <a href="https://annereginatto.github.io/Certificard-V2/"> here </a></li><br>
