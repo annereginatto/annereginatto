@@ -7,7 +7,7 @@
     <li> 👩🏼‍🎓 Medical Doctor graduated in 2019; Presently undertaking a Bachelor of Computer Science.</li><br>
     <li> 👯 I’m looking to collaborate on open source projects.</li><br>
     <li> 💬 Ask me about dogs, travelling, medicine and technology!</li><br>
-    <li> 🌐 All of my projects are available <a href="https://annereginatto.github.io/Certificard-V2/"> here </a></li><br>
+    <li> 🌐 All of my projects are available <a href="https://annereginatto.github.io/Certificard-V2/"> here</a>!</li><br>
     <li> 😄 Pronouns: she/her.</li><br>
     <li>❗️ Fun fact: I love pizza with pineapple as a topping 🍍.</li><br>
   </div>
